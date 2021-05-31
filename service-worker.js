@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/thunder/precache-manifest.b80c6d351e821ae3909962fc3158fd08.js"
+  "/thunder/precache-manifest.6447b46d318d73e652686b47c504571e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "thunder"});
